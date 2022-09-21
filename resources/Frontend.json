@@ -1,0 +1,9 @@
+{
+  "Config": {
+    "Environment": {
+      "URL": "https://phptravels.net/login",
+      "userName": "user@phptravels.com",
+      "password":"demouser"
+    }
+  }
+}
